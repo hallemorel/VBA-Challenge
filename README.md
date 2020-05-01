@@ -2,7 +2,7 @@
 
 Stock Market Analysis
 
-From The Stock Data and the Test Dat the following was tested:
+From The Stock Data and the Test Data the following was tested:
 
 1. To create a script that will loop through the stocks for one year for each run and take the following information:
 
